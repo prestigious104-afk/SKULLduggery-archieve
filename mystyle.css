@@ -10,7 +10,7 @@ body {font-family: 'Baskervville'}
 
 body,html{height: 100%;}
 	.hero-image{background-image: linear-gradient(rgba(0, 0, 0, 0.5), 
-	rgba(0, 0, 0, 0.5)), url("img5.jpg");
+	rgba(0, 0, 0, 0.5)), url("![Image](https://github.com/user-attachments/assets/8a70fc4b-cccc-435e-844a-eae62e5d5f64)");
 	height: 30%;
   
   background-position: center;
@@ -69,3 +69,4 @@ div.scroll-container img {
   padding: 2px;
 }
 .checked {color:green;}
+
